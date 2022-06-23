@@ -1,31 +1,6 @@
-<div style="width:100%">
-    <div style="width:50%; display:inline-block">
-        <p align="center">
-        <img align="center" alt="" src="https://avatars2.githubusercontent.com/u/45484907?s=200&v=4">
-        </p>
-    </div>
-</div>
 
-<br></br><br></br>
 
 # Android Kotlin Chat App
-<br/>
-
-![Platform](https://img.shields.io/badge/Platform-Android-brightgreen.svg)
-![Platform](https://img.shields.io/badge/Language-Kotlin-yellowgreen.svg)
-![GitHub repo size](https://img.shields.io/github/repo-size/cometchat-pro/android-kotlin-chat-app)
-![GitHub contributors](https://img.shields.io/github/contributors/cometchat-pro/android-kotlin-chat-app)
-![GitHub stars](https://img.shields.io/github/stars/cometchat-pro/android-kotlin-chat-app?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/cometchat?style=social)
-
-</br></br>
-
-<div>
-<img align="left" src="https://files.readme.io/952af91-UI_Kit__1.png">
-</div>
-
-<br></br><br></br></br>
-
 <br></br>
 CometChat Kitchen Sink Sample App (built using **CometChat UIKit**) is a fully functional messaging app capable of **one-on-one** (private) and **group** messaging as well as Calling. This sample app enables users to send **text** and **multimedia messages like images, videos, documents**. Also, users can make **Audio** and **Video** calls to other users or groups.
 
@@ -68,13 +43,6 @@ Learn more about how to integrate [UI Kit-Kotlin](https://github.com/cometchat-p
 - To read the full documentation on UI Kit-Kotlin integration visit our [Documentation](https://prodocs.cometchat.com/v2.1/docs).
 - Facing any issues while integrating or installing the UI Kit-Kotlin please <a href="https://app.cometchat.io/"> connect with us via real time support present in CometChat Dashboard.</a>
 
-# Contributors
-Thanks to the following people who have contributed to this project:<br/>
-[@poojashivane :woman_technologist:](https://github.com/PoojaShivane) <br/>
-[@darshanbhanushali :computer:](https://github.com/darshanbhanushali)<br/>
-[@yadavmangesh :spiral_notepad:](https://github.com/yadavmangesh)<br/>
-[@anantgarg :man_judge:](https://github.com/anantgarg)<br/>
-[@Tristankluivert :man_technologist:](https://github.com/Tristankluivert)<br/>
 
 ## Contact :mailbox:
 Contact us via real time support present in [CometChat Dashboard](https://app.cometchat.io/).
